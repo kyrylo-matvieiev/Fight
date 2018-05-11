@@ -1,0 +1,23 @@
+{
+  "plugins": [
+    ["transform-runtime", {
+      "polyfill": false,
+      "regenerator": true
+    }]
+  ],
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "ie >= 10",
+            "last 3 Chrome versions",
+            "last 3 ff versions",
+            "last 3 iOS versions"
+          ]
+        }
+      }
+    ]
+  ]
+}
