@@ -1,7 +1,6 @@
 # Fight
 Created with CodeSandbox
 
-###Fight game. Study project (B.S.A)
+### Fight game. Study project (B.S.A)
 
-**Language use
-..* JS
+Language use: JS.
